@@ -16,6 +16,12 @@ They remain subject to the Apache License 2.0.
 All other content is original to this project and licensed under the
 MIT License (see LICENSE).
 
-The foundations layer is inspired by general UI design practice as
-popularized by "Refactoring UI" (Adam Wathan, Steve Schoger). It does not
-reproduce that work, and this project is not affiliated with its authors.
+The foundations layer uses spacing, type, color and shadow scales that
+reached this project through the "frontend" skill, which took them from
+"refactoring-ui-skill" by s13k (https://github.com/s0xDk/refactoring-ui-skill),
+licensed under the MIT License, Copyright (c) 2026 s13k. Its license is
+included in licenses/MIT-refactoring-ui-skill.txt.
+
+The design rules behind those scales come from the book "Refactoring UI"
+(Adam Wathan, Steve Schoger). This project does not reproduce that work
+and is not affiliated with its authors.

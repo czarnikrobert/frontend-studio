@@ -113,11 +113,12 @@ The source skills disagreed on several points. Frontend Studio settles them in f
 
 ## Origins and credits
 
-Frontend Studio is a merge and rewrite of three sources:
+Frontend Studio is a merge and rewrite of these sources:
 
 - **`frontend-design`** by Anthropic, licensed under Apache 2.0. The design-direction process, the aesthetic-cluster calibration and the writing guidance are adapted from it. See [`NOTICE`](NOTICE) and [`licenses/APACHE-2.0.txt`](licenses/APACHE-2.0.txt).
 - **`frontend`**, a Polish-language community skill focused on engineering conventions, UI scales, performance rules and an effects arsenal. Its content was translated, restructured and reconciled with the other sources.
-- **The foundations layer** was written from scratch for this project. It is inspired by the general body of UI design practice popularized by the book *Refactoring UI* by Adam Wathan and Steve Schoger. It does not reproduce the book's text, and this project is not affiliated with or endorsed by its authors.
+- **[`refactoring-ui-skill`](https://github.com/s0xDk/refactoring-ui-skill)** by s13k, licensed under MIT. The `frontend` skill used it as its source of spacing, type, color and shadow scales, and those scales carry over into this project's foundations layer. See [`licenses/MIT-refactoring-ui-skill.txt`](licenses/MIT-refactoring-ui-skill.txt).
+- **The foundations layer** (`references/foundations.md`) was rewritten for this project on top of those scales. The underlying design rules come from the book *Refactoring UI* by Adam Wathan and Steve Schoger. This project does not reproduce the book's text and is not affiliated with or endorsed by its authors. If the foundations help you, [buy the book](https://www.refactoringui.com/).
 
 ## Contributing
 
@@ -131,4 +132,4 @@ Please keep `SKILL.md` under about 500 lines and put detail in the reference fil
 
 ## License
 
-MIT for original content, see [`LICENSE`](LICENSE). Portions adapted from Anthropic's `frontend-design` skill remain under the Apache License 2.0, see [`NOTICE`](NOTICE).
+MIT for original content, see [`LICENSE`](LICENSE). Portions adapted from Anthropic's `frontend-design` skill remain under the Apache License 2.0, and scales derived from `refactoring-ui-skill` retain its MIT notice. See [`NOTICE`](NOTICE).
