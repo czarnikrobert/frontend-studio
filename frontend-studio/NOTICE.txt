@@ -15,6 +15,44 @@ They remain subject to the Apache License 2.0.
 All other content is original to this project and licensed under the
 MIT License (see LICENSE.txt).
 
-The foundations layer is inspired by general UI design practice as
-popularized by "Refactoring UI" (Adam Wathan, Steve Schoger). It does not
-reproduce that work, and this project is not affiliated with its authors.
+The foundations layer uses spacing, type, color and shadow scales that
+reached this project through the "frontend" skill, which took them from
+"refactoring-ui-skill" by s13k (https://github.com/s0xDk/refactoring-ui-skill),
+licensed under the MIT License, Copyright (c) 2026 s13k. Its license
+follows below.
+
+The design rules behind those scales come from the book "Refactoring UI"
+(Adam Wathan, Steve Schoger). This project does not reproduce that work
+and is not affiliated with its authors.
+
+==================================================================
+
+MIT License
+
+Copyright (c) 2026 s13k
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+This license covers the original write-up, code, and CSS tokens in this
+repository (SKILL.md, references/, assets/). It does not cover, and does not
+grant any rights to, the book "Refactoring UI" by Adam Wathan and Steve
+Schoger, which is a separate copyrighted work referenced but not included
+here. Buy the book: https://www.refactoringui.com/
