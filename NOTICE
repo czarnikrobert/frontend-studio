@@ -1,0 +1,21 @@
+Frontend Studio
+Copyright (c) 2026 Robert Czarnik
+
+This project contains material adapted from the "frontend-design" skill
+by Anthropic, PBC, licensed under the Apache License, Version 2.0.
+A copy of that license is included in licenses/APACHE-2.0.txt
+(in the packaged skill: APACHE-2.0.txt).
+
+Adapted material includes the design-direction process (plan, review
+against the brief, build, critique), the calibration list of common
+AI-generated aesthetic clusters, typographic guidance and the guidance
+on writing in design. These portions were modified: merged with other
+sources, restructured into reference files, and edited for this skill.
+They remain subject to the Apache License 2.0.
+
+All other content is original to this project and licensed under the
+MIT License (see LICENSE).
+
+The foundations layer is inspired by general UI design practice as
+popularized by "Refactoring UI" (Adam Wathan, Steve Schoger). It does not
+reproduce that work, and this project is not affiliated with its authors.
